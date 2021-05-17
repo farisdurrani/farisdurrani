@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faris!
 - 👀 I’m interested in software development but intending to specialize in cybersecurity.
-- 🌱 I’m currently a senior COmputer Science major at the Georgia Institute of Technology
+- 🌱 I’m currently a senior Computer Science major at the Georgia Institute of Technology
 - 📫 How to reach me 
 * Email: [afarisdurrani@gatech.edu](mailto:afarisdurrani@gatech.edu)
 * Email: [afarisdurrani@gmail.com](mailto:afarisdurrani@gmail.com)
