@@ -7,6 +7,7 @@
   - Text and WhatsApp: +1 (678) 956-9655
   - [LinkedIn](https://www.linkedin.com/in/farisdurrani/)
   - [Facebook](https://www.facebook.com/FarisDurrani19/)
+  - [Github.io page](https://farisdurrani.github.io/)
 
 <!---
 farisdurrani/farisdurrani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
